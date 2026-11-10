@@ -1,0 +1,12 @@
+# build
+.pio/
+
+# private / unreleased materials (dumps, analysis, scratch)
+re/
+
+# python / misc
+__pycache__/
+host/__pycache__/
+*.pyc
+host/pkts*.txt
+*.log
